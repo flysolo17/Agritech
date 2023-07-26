@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847353154383",
+    "project_id": "agritech-edf2d",
+    "storage_bucket": "agritech-edf2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847353154383:android:deaabfed4302b6fc5e133a",
+        "android_client_info": {
+          "package_name": "com.example.agritech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847353154383-nvpa9hmvvfc7lm8ma3uqhv6mqhopv3f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2lviy6HjYLzz4h3zHsDQq1lpaFSR5YN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847353154383-nvpa9hmvvfc7lm8ma3uqhv6mqhopv3f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
